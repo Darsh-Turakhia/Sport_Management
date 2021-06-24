@@ -1,5 +1,6 @@
 # Sport_Management
 A sport management system in c++.
 
-A sport management system for managing a sports facility.
-This code was built in c++ in windows.
+This travel manaagement system was built in c++ in windows. 
+It has some cool animations. 
+To run this just go ahead and open your turbo-c++.
